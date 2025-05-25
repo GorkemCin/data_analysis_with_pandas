@@ -1,4 +1,5 @@
 # data_analiysis_with_pandas
+### Personal learning repository focused on mastering data with pandas in Python
 ## Select
 
 #### Python'da iki tip selector bulumaktadır:
