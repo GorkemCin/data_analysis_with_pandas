@@ -14,3 +14,16 @@
 <hr>
 
 <b>Dilimleme: </b> <i>Hem "loc" hemde "iloc" ile tıpkı python'da ki gibi dilimleme yapılabilinir.</i>
+
+
+## Select
+
+#### There are two types of selectors in Python:
+
++ <b>loc:</b> is a very powerful method used for selecting data in the Pandas library. It performs pinpoint data selection, specifically by <i>label</i>, that is, row and column names. "loc" performs label-based selection.
+
++ <b>iloc:</b> is used for selecting data in the Pandas library. The difference between "loc" and "iloc" is that "iloc" selects by <i>position</i>, that is, by row number and column number. "iloc" is integer-based, that is, by row and column number.
+
+<hr>
+
+<b>Slicing:</b> <i>Both "loc" and "iloc" can perform slicing, just like in Python.</i>
