@@ -1,5 +1,8 @@
 # data_analiysis_with_pandas
+
+### Python'da Pandas ile verilere hakim olmaya odaklanan kişisel öğrenme deposu
 ### Personal learning repository focused on mastering data with pandas in Python
+
 ## Select
 
 #### Python'da iki tip selector bulumaktadır:
